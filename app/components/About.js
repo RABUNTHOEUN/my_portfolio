@@ -19,11 +19,6 @@ const About = () => (
 
       {/* Image of the Developer */}
       <div className="mb-6">
-        <Image
-        alt="image" 
-        src={Profiler}
-        
-        />
         <Image 
         width={200}
         height={200}
