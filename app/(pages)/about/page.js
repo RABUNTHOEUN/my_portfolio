@@ -44,11 +44,11 @@ const About = () => (
       {/* Statistics or Experience Summary */}
       <div className="mt-10 flex justify-center space-x-8">
         <div>
-          <h5 className="text-3xl font-bold text-blue-600">5+</h5>
+          <h5 className="text-3xl font-bold text-blue-600">3+</h5>
           <p className="text-gray-600">Years of Experience</p>
         </div>
         <div>
-          <h5 className="text-3xl font-bold text-blue-600">20+</h5>
+          <h5 className="text-3xl font-bold text-blue-600">2+</h5>
           <p className="text-gray-600">Completed Projects</p>
         </div>
         <div>
