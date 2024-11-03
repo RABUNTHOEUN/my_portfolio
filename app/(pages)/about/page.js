@@ -58,7 +58,7 @@ const About = () => (
       {/* "Learn More" Button */}
       <div className="mt-12">
         <Link 
-          href="/portfolio" // Link to another page (e.g., Portfolio)
+          href="/projects" // Link to another page (e.g., Portfolio)
           className="bg-blue-600 text-white px-6 py-3 rounded-lg hover:bg-blue-700 transition"
         >
           Learn More About My Work

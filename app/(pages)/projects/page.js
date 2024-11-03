@@ -1,6 +1,6 @@
 "use client"
 
-import ProjectCard from '../components/ProjectCard';
+import ProjectCard from '../../components/ProjectCard';
 import { useRouter } from 'next/navigation'; // Importing useRouter from next/navigation
 
 const Projects = () => {

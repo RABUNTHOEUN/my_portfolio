@@ -1,8 +1,6 @@
-import Header from "./components/Header";
 import Hero from "./components/Hero";
-import About from "./about/page";
-import Projects from "./projects/page";
-import Footer from "./components/Footer";
+import About from "./(pages)/about/page";
+import Projects from "./(pages)/projects/page";
 
 export default function Home() {
   return (
