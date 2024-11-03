@@ -41,6 +41,7 @@ const Header = () => {
         {/* Mobile Menu */}
         {isMenuOpen && (
           <nav className="md:hidden mt-2 space-y-2 text-center">
+            <hr/>
             <a href="/about" className="block px-4 py-2 hover:underline">About</a>
             <a href="/projects" className="block px-4 py-2 hover:underline">Projects</a>
             <a href="/contact" className=" block px-4 py-2 hover:underline">Contact</a>
