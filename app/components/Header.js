@@ -8,7 +8,7 @@ const Header = () => {
   return (
     <header className="bg-gray-800 text-white p-4">
       <div className="container mx-auto flex justify-between items-center">
-        <h1 className="text-2xl font-bold">Ra Bunthoeun</h1>
+        <a href="/" className="text-2xl font-bold">Ra Bunthoeun</a>
 
         {/* Desktop Navigation */}
         <nav className="hidden md:flex space-x-4">
@@ -44,7 +44,7 @@ const Header = () => {
         <nav className="md:hidden mt-2 space-y-2 text-center">
           <a href="#about" className="block px-4 py-2 hover:underline">About</a>
           <a href="#projects" className="block px-4 py-2 hover:underline">Projects</a>
-          <a href="#contact" className="block px-4 py-2 hover:underline">Contact</a>
+          <a href="#contact" className=" block px-4 py-2 hover:underline">Contact</a>
         </nav>
       )}
     </header>
