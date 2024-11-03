@@ -34,6 +34,8 @@ const About = () => (
           <li className="text-gray-600 text-lg">HTML & CSS</li>
           <li className="text-gray-600 text-lg">JavaScript</li>
           <li className="text-gray-600 text-lg">React & Next.js</li>
+          <li className="text-gray-600 text-lg">Laravel</li>
+          <li className="text-gray-600 text-lg">Spring Boot</li>
           <li className="text-gray-600 text-lg">Node.js</li>
           <li className="text-gray-600 text-lg">Tailwind CSS</li>
         </ul>
