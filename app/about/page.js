@@ -2,7 +2,6 @@
 
 import Image from "next/image";
 import Link from "next/link";
-import { Profiler } from "react";
 
 const About = () => (
   <section id="about" className="py-20 bg-gray-50">

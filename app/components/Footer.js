@@ -8,9 +8,9 @@ const Footer = () => (
       <div className="md:w-1/3">
         <h3 className="text-lg font-semibold">Quick Links</h3>
         <nav className="flex flex-col items-center md:items-start mt-2 space-y-2">
-          <a href="#about" className="hover:underline">About</a>
-          <a href="#projects" className="hover:underline">Projects</a>
-          <a href="#contact" className="hover:underline">Contact</a>
+          <a href="/about" className="hover:underline">About</a>
+          <a href="/projects" className="hover:underline">Projects</a>
+          <a href="/contact" className="hover:underline">Contact</a>
         </nav>
       </div>
 
